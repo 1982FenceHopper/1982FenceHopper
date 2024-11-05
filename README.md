@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://wallpapercrafter.com/th800/48084-anonymus-hacker-computer-mask-minimalism-logo-hd-minimalist.jpg" width="128" />
+    <img src="https://wallpapercave.com/wp/wp6006094.png" width="384" />
 </div>
 
 <div id="badges" align="center">
@@ -7,11 +7,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/1982fencehopper/">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white
-        " />
+        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&label=cursedmonolith
-    " />
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&label=cursedmonolith" />
 </div>
 
 <div id="counter" align="center">
