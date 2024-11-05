@@ -23,7 +23,7 @@
 
 I'm Nashat, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AI/ML Enthusiast <img src="https://media.giphy.com/media/rQNY1TP5TUqPAKgx2A/giphy.gif" width="30" /> and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="30" /> from Canada, specializing in Next.js web development. 
 
-- 💻 Currently working on [Highlight C3](https://github.com/1982FenceHopper/highlight-c3) (and another secret project)
+- 💻 Currently working on **[Highlight C3](https://github.com/1982FenceHopper/highlight-c3)** (and another secret project)
 - ✍️ Best with TypeScript and Python
 - 🌱 Learning Cybersecurity and AI/ML
 - 📫 How to reach me: <u>nashatyafi312@gmail.com</u>
