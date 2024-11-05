@@ -1,16 +1,69 @@
-## Hi there 👋
+<div id="header" align="center">
+    <img src="https://wallpapercrafter.com/th800/48084-anonymus-hacker-computer-mask-minimalism-logo-hd-minimalist.jpg" width="128" />
+</div>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/nashat-yafi-825309336/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/1982fencehopper/">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white
+        " />
+    </a>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&label=cursedmonolith
+    " />
+</div>
+<div id="counter" align="center">
+    <img src="https://komarev.com/ghpvc/?username=1982fencehopper&style=flat-square&color=blue" />
+</div>
 
-<!--
-**1982FenceHopper/1982FenceHopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+    Hi...
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
+I'm Nashat, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AI/ML Enthusiast <img src="https://media.giphy.com/media/rQNY1TP5TUqPAKgx2A/giphy.gif" width="30" /> and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="30" /> from Canada, specializing in Next.js web development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently working on Highlight C3 (and another secret project)
+- ✍️ Best with TypeScript and Python
+- 🌱 Learning Cybersecurity and AI/ML
+- 📫 How to reach me: <u>nashatyafi312@gmail.com</u>
+- <div id="goofy-area"><img src="https://media.giphy.com/media/yJFeycRK2DB4c/giphy.gif" width="30" />&ensp;Fun Fact: I am very <b>goofy</b> sometimes.</div>
+
+---
+
+### 🛠️ Languages and Tools
+
+<div id="lang_tools">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original.svg" height="40" width="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40"/>&nbsp;
+</div>
+
+---
+
+### My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1982fencehopper&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1982fencehopper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### A joke...
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
