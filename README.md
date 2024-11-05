@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img src="https://wallpapercrafter.com/th800/48084-anonymus-hacker-computer-mask-minimalism-logo-hd-minimalist.jpg" width="128" />
 </div>
+
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/nashat-yafi-825309336/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,6 +13,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&label=cursedmonolith
     " />
 </div>
+
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=1982fencehopper&style=flat-square&color=blue" />
 </div>
