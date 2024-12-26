@@ -21,7 +21,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm Nashat, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AI/ML Enthusiast <img src="https://media.giphy.com/media/rQNY1TP5TUqPAKgx2A/giphy.gif" width="30" /> and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="30" /> from Canada, specializing in backend development. 
+I'm Nashat, a Full Stack Developer and Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AI/ML Enthusiast <img src="https://media.giphy.com/media/rQNY1TP5TUqPAKgx2A/giphy.gif" width="30" /> and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="30" /> from Canada, specializing in backend development. 
 
 - 💻 Currently working on **[OpenACHES](https://github.com/1982FenceHopper/openaches)** and **[Mother C1](https://github.com/1982FenceHopper/mother-c1)**
 - ✍️ Best with TypeScript and Python
