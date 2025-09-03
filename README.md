@@ -57,7 +57,7 @@ I'm Nashat, a Full Stack Developer and Backend Engineer <img src="https://media.
 
 ### My stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1982FenceHopper)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=1982FenceHopper&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1982fencehopper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
